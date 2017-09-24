@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "lib.dtd">
+<!-- Edit By Hao -->
+<library>
+	<book id="001">
+		<title>&lt;&lt;荒村公寓&gt;&gt;</title>
+		<author>蔡骏</author>
+		<price>38</price>
+		<publisher>萌芽出版社</publisher>
+		<cost>25</cost>
+	</book>
+	<member>
+		<name>
+			<firstName>赵</firstName>
+			<middleName>尼古拉斯</middleName>
+			<lastName>四</lastName>
+		</name>
+		<address>
+			<houseNumber>205</houseNumber>
+			<street>贝克街</street>
+			<city>伦敦</city>
+		</address>
+	</member>
+	<book id="002">
+		<title>&lt;&lt;红楼梦&gt;&gt;</title>
+		<author>曹雪芹</author>
+		<price>88</price>
+		<publisher>经典图书出版社</publisher>
+		<cost>75</cost>
+	</book>
+	<member>
+		<name>
+			<firstName>隔壁</firstName>
+			<middleName>老</middleName>
+			<lastName>王</lastName>
+		</name>
+		<address>
+			<houseNumber>419</houseNumber>
+			<street>人民路</street>
+			<city>北京市</city>
+		</address>
+	</member>
+	<book id="003">
+		<title>&lt;&lt;三国演义&gt;&gt;</title>
+		<author>罗贯中</author>
+		<price>102</price>
+		<publisher>人民教育出版社</publisher>
+		<cost>80</cost>
+	</book>
+	<member>
+		<name>
+			<firstName>hao</firstName>
+			<middleName>handsome</middleName>
+			<lastName>qiang</lastName>
+		</name>
+		<address>
+			<houseNumber>520</houseNumber>
+			<street>6.st</street>
+			<city>newYork</city>
+		</address>
+	</member>
+</library>

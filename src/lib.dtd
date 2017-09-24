@@ -1,0 +1,20 @@
+<!ELEMENT library (book,member)*>
+<!ELEMENT book (title,author,price,publisher,cost)>
+<!ELEMENT member (name,address)>
+<!ELEMENT name (firstName,middleName,lastName)>
+<!ELEMENT address (houseNumber,street,city)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT middleName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT houseNumber (#PCDATA)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+ <!ATTLIST book id CDATA #REQUIRED>
+
+
+
